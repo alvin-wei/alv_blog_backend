@@ -1,0 +1,22 @@
+{
+  "name": "alv_blog_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvin-wei/alv_blog_backend.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "alvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvin-wei/alv_blog_backend/issues"
+  },
+  "homepage": "https://github.com/alvin-wei/alv_blog_backend#readme"
+}
